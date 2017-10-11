@@ -5,7 +5,7 @@
 
 
 
-<img src="pics/logopolimi.svg" alt="Polimi Logo" style="width: 100px;"/>
+<img src="pics/logopolimi.svg" alt="Polimi Logo" style="width: 50px;"/>
 
 
 #### *About me*
