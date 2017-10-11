@@ -5,13 +5,7 @@
 
 
 
-[comment]: <> () ![Polimi Logo](pics/logopolimi.svg )
-[//]: <> () ![Polimi Logo](pics/logopolimi.svg )
-<!--![Polimi Logo](pics/logopolimi.svg )-->
-[](![Polimi Logo](pics/logopolimi.svg)
-
-
-<img src="pics/logopolimi.svg" alt="Polimi Logo" style="width: 100px;"/>
+<img src="pics/logopolimi.svg" alt="Polimi Logo" style="width: 50px;"/>
 
 
 #### *About me*
